@@ -8,3 +8,11 @@ def add(x, y):
 result = add(2, 3)
 
 print(f"System result is {result}")
+
+
+def multiply(x, y):
+    result = x * y
+    return result
+
+mult = multiply(2,3) 
+print(f"mutliply result is {mult}")
